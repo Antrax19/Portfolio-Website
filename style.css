@@ -18,7 +18,7 @@ body {
 .menu{
   display: flex;
   align-items: center;
-  justify-content:space-between;
+  justify-content:baseline;
   top:0;
   margin-top: 20px;
   position:relative;
