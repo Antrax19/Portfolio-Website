@@ -38,7 +38,7 @@ body {
 ul li a {
   color: rgb(0, 0, 0);
   text-decoration: none;
-  margin: 20px 20px; /* Adjust as needed */
+  margin: 10px 10px; /* Adjust as needed */
    /* Add transition effect for border-bottom */
 }
 
