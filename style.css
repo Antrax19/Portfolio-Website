@@ -582,7 +582,7 @@ h3{
 
     
 @media screen and (max-width:480px) {
-  .menu ul li {
+  .menu  {
     padding: 10px;
     font-size: 10px;
     display:inline-block;
