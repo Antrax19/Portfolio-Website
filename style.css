@@ -585,7 +585,7 @@ h3{
   .menu  {
     padding: 10px;
     font-size: 10px;
-    display:inline-block;
+    display:flex;
     position:relative;
     justify-content:center;
   }
