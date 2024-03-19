@@ -587,7 +587,7 @@ h3{
     font-size: 10px;
     display:inline-block;
     position:relative;
-    justify-content: space-between;
+    justify-content:center;
   }
 
   .card h2 {
